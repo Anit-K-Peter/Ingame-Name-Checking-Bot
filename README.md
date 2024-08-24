@@ -22,15 +22,8 @@ The Ingame Name Checking Bot is designed to facilitate name format validation fo
 - **/format**: Check valid and invalid name formats.
 - **/help**: Get assistance with commands and usage.
 
-## 🤝 Supporters and Contributors
-
-- **Supported By**: [TEAM God Dc Developers](https://discord.gg/apF2ZBXZVF)
-- **Sub-Developers**: n0t.see
-
 ## 🌱 Creater Note
 
 Hey its Sebastian_Varkey,This bot is not intended for public use. Utilizing this bot for purposes other than its intended design may result in legal consequences. Please respect the guidelines and limitations set forth by its creators.
 
 ---
-
-#### Powered by GOD DC DEVELOPER COMMUNITY
